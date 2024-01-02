@@ -1,3 +1,3 @@
 # Ideas
 
-Making my ideas list public
+Making my coding ideas list public
